@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1097246265703",
+    "project_id": "makunda-701b8",
+    "storage_bucket": "makunda-701b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097246265703:android:4a6b83a41c6134078d1fc2",
+        "android_client_info": {
+          "package_name": "com.cairgy.the_rive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097246265703-lqeuq5djd2bkta3mtigfdojq0h5on6im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASdop2fzL87PBJruC_UKxZiVViLWV9Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097246265703-lqeuq5djd2bkta3mtigfdojq0h5on6im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097246265703-27u2iqn8sepbjeetcl85hoee2a59s83o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cairgy.theRive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
